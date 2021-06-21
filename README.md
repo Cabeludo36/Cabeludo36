@@ -1,14 +1,16 @@
 # **Sobre Cabeludo**
 
-- 👋 Olá, eu sou **@Cabeludo36**;
+- 👋 Olá, eu sou **Breno Pimentel da Silva** ou **@Cabeludo36**
 
-- 👀 Me interesso por criar programas por Python, Java, C#, C++ e C;
+- 👀 Me interesso em programação e resolução de problemas de logica
 
-- 🌱 Atualmente estou aprendendo a desenvolver em JavaScript e CSS
+- 👨‍💻 Atualmente estou interessado na criação de softwares de criação/consulta/alteração de Banco de Dados
 
-- 💞️ I’m looking to collaborate on ...
+- 🧠 Tenho experiência com HTML, CSS, Java Script, Python, C, C++, C#, Java, SQL
 
-- 📫 Você pode me encontrar pelo
+- 🤝 Estou procurando colaborar em projetos para facilitar a utilização de programas para o usuário (principalmente de UI)
+
+- 📫 Você pode me encontrar pelo:
 
   **Instagram:** @breno_pimentel_da_silva
 
